@@ -1,0 +1,7436 @@
+Time 0
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=0, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=0, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=30, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=30, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=2}
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=30, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 0
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: Task{arrivalTime=30, serviceTime=1}; 
+Queue 2: Task{arrivalTime=33, serviceTime=2}; 
+Average Waiting Time: 2.0
+Average Service Time: 1.5
+Peak Hour: 33
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.5
+Average Service Time: 3.0
+Peak Hour: 33
+
+Time 35
+Waiting Clients:
+Queue 1: Task{arrivalTime=35, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 3.5
+Average Service Time: 3.0
+Peak Hour: 33
+
+Time 36
+Waiting Clients:
+Queue 1: Task{arrivalTime=35, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 3.5
+Average Service Time: 3.0
+Peak Hour: 33
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 33
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 33
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 33
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=12, serviceTime=4}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: Task{arrivalTime=12, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 12
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: Task{arrivalTime=12, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 12
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=38, serviceTime=2}
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: Task{arrivalTime=37, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 12
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=39, serviceTime=2}
+Queue 1: Task{arrivalTime=37, serviceTime=2}; 
+Queue 2: Task{arrivalTime=38, serviceTime=2}; 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 38
+
+Time 39
+Waiting Clients:
+Queue 1: Task{arrivalTime=39, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.5
+Peak Hour: 38
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=3}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=7, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=7, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=13, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=13, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 1.75
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=2}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=25, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.75
+Average Service Time: 2.5
+Peak Hour: 7
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 30
+Waiting Clients:
+Queue 1: Task{arrivalTime=30, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 31
+Waiting Clients:
+Queue 1: Task{arrivalTime=30, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 3.25
+Average Service Time: 3.0
+Peak Hour: 7
+
+Time 32
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 33
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 34
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.25
+Average Service Time: 4.0
+Peak Hour: 7
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=4}
+Task{arrivalTime=14, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=14, serviceTime=4}; 
+Queue 2: Task{arrivalTime=14, serviceTime=2}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 14
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=14, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.3333333333333333
+Average Service Time: 0.3333333333333333
+Peak Hour: 14
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=26, serviceTime=2}
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=3}
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=26, serviceTime=2}; 
+Queue 2: Task{arrivalTime=26, serviceTime=2}; 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 14
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=27, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 14
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: Task{arrivalTime=27, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 14
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.1666666666666665
+Average Service Time: 2.1666666666666665
+Peak Hour: 14
+
+Time 30
+Waiting Clients:
+Queue 1: Task{arrivalTime=30, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 2.1666666666666665
+Average Service Time: 2.1666666666666665
+Peak Hour: 14
+
+Time 31
+Waiting Clients:
+Queue 1: Task{arrivalTime=30, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.1666666666666665
+Average Service Time: 2.1666666666666665
+Peak Hour: 14
+
+Time 32
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 33
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 34
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 14
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=2, serviceTime=6}
+Task{arrivalTime=2, serviceTime=5}
+Task{arrivalTime=5, serviceTime=4}
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=2, serviceTime=6}
+Task{arrivalTime=2, serviceTime=5}
+Task{arrivalTime=5, serviceTime=4}
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=5, serviceTime=4}
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: Task{arrivalTime=2, serviceTime=6}; 
+Queue 2: Task{arrivalTime=2, serviceTime=5}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=5, serviceTime=4}
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: Task{arrivalTime=2, serviceTime=4}; 
+Queue 2: Task{arrivalTime=2, serviceTime=3}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=5, serviceTime=4}
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: Task{arrivalTime=2, serviceTime=2}; 
+Queue 2: Task{arrivalTime=2, serviceTime=1}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: Task{arrivalTime=5, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 3.0
+Average Service Time: 2.6666666666666665
+Peak Hour: 2
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: Task{arrivalTime=5, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 3.0
+Average Service Time: 2.6666666666666665
+Peak Hour: 2
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=35, serviceTime=4}
+Task{arrivalTime=38, serviceTime=6}
+Task{arrivalTime=44, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.6666666666666665
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=0, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=0, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=14, serviceTime=6}
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=14, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=14, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=14, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=32, serviceTime=4}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=32, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 0
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=32, serviceTime=2}; 
+Queue 2: Task{arrivalTime=33, serviceTime=5}; 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 33
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: Task{arrivalTime=33, serviceTime=3}; 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 33
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=36, serviceTime=6}
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: Task{arrivalTime=33, serviceTime=1}; 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 33
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=36, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 3.1666666666666665
+Average Service Time: 3.1666666666666665
+Peak Hour: 33
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=36, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 3.1666666666666665
+Average Service Time: 3.1666666666666665
+Peak Hour: 33
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: Task{arrivalTime=36, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 3.1666666666666665
+Average Service Time: 3.1666666666666665
+Peak Hour: 33
+
+Time 39
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 40
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 41
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 42
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 43
+Waiting Clients:
+Queue 1: Task{arrivalTime=43, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 44
+Waiting Clients:
+Queue 1: Task{arrivalTime=43, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 45
+Waiting Clients:
+Queue 1: Task{arrivalTime=43, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 33
+
+Time 46
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 47
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 48
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 49
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 50
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 51
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 52
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 53
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 54
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 55
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 56
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 57
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 58
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 59
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 33
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=34, serviceTime=5}
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 33
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=2}; 
+Queue 2: Task{arrivalTime=34, serviceTime=5}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 34
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: Task{arrivalTime=34, serviceTime=3}; 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 34
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: Task{arrivalTime=34, serviceTime=1}; 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 34
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 39
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 40
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 41
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 42
+Waiting Clients:
+Task{arrivalTime=43, serviceTime=5}
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 43
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=43, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 44
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=43, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 45
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=43, serviceTime=1}; 
+Queue 2: Task{arrivalTime=45, serviceTime=4}; 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 34
+
+Time 46
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: Task{arrivalTime=45, serviceTime=2}; 
+Average Waiting Time: 3.5
+Average Service Time: 3.1666666666666665
+Peak Hour: 34
+
+Time 47
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 48
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 49
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 50
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 51
+Waiting Clients:
+Task{arrivalTime=52, serviceTime=4}
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 52
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=52, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 53
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: Task{arrivalTime=52, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 3.8333333333333335
+Peak Hour: 34
+
+Time 54
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 55
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 56
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 57
+Waiting Clients:
+Task{arrivalTime=58, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 58
+Waiting Clients:
+Queue 1: Task{arrivalTime=58, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 59
+Waiting Clients:
+Queue 1: Task{arrivalTime=58, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.5
+Peak Hour: 34
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=7, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=7, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=15, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=15, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 7
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=15, serviceTime=2}; 
+Queue 2: Task{arrivalTime=17, serviceTime=5}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 17
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: Task{arrivalTime=17, serviceTime=3}; 
+Average Waiting Time: 0.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 17
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: Task{arrivalTime=17, serviceTime=1}; 
+Average Waiting Time: 0.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 17
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=6}
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.3333333333333335
+Peak Hour: 17
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=21, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.3333333333333335
+Peak Hour: 17
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=21, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.3333333333333335
+Peak Hour: 17
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=21, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.3333333333333335
+Peak Hour: 17
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=21, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.3333333333333335
+Peak Hour: 17
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=5}
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 5.333333333333333
+Peak Hour: 17
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 39
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 40
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 41
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 42
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 43
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 44
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 45
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 46
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 47
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 48
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 49
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 50
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 51
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 52
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 53
+Waiting Clients:
+Task{arrivalTime=54, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 54
+Waiting Clients:
+Queue 1: Task{arrivalTime=54, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 55
+Waiting Clients:
+Queue 1: Task{arrivalTime=54, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 56
+Waiting Clients:
+Queue 1: Task{arrivalTime=54, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 6.166666666666667
+Peak Hour: 17
+
+Time 57
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 7.166666666666667
+Peak Hour: 17
+
+Time 58
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 7.166666666666667
+Peak Hour: 17
+
+Time 59
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 7.166666666666667
+Peak Hour: 17
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=5}
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: Task{arrivalTime=7, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: Task{arrivalTime=7, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: Task{arrivalTime=7, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.8333333333333334
+Peak Hour: 7
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.8333333333333334
+Peak Hour: 7
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=13, serviceTime=4}
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.8333333333333334
+Peak Hour: 7
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: Task{arrivalTime=13, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.8333333333333334
+Peak Hour: 7
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: Task{arrivalTime=13, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.8333333333333334
+Peak Hour: 7
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=5}
+Task{arrivalTime=30, serviceTime=5}
+Task{arrivalTime=53, serviceTime=5}
+Task{arrivalTime=55, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.5
+Peak Hour: 7
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=4, serviceTime=4}
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=0, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=4, serviceTime=4}
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=0, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=4, serviceTime=4}
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=4, serviceTime=4}
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=4, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=4, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.6666666666666666
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 1.3333333333333333
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=5}
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=28, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=28, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=28, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 2.1666666666666665
+Peak Hour: 0
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 39
+Waiting Clients:
+Task{arrivalTime=40, serviceTime=5}
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 40
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=40, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 41
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=40, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 42
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: Task{arrivalTime=40, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.0
+Peak Hour: 0
+
+Time 43
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 44
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 45
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 46
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 47
+Waiting Clients:
+Task{arrivalTime=48, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 48
+Waiting Clients:
+Queue 1: Task{arrivalTime=48, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 49
+Waiting Clients:
+Queue 1: Task{arrivalTime=48, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 50
+Waiting Clients:
+Queue 1: Task{arrivalTime=48, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 3.8333333333333335
+Peak Hour: 0
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=10, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=10, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=5}
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=17, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=17, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=17, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=23, serviceTime=5}
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=23, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=23, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=23, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=30, serviceTime=6}
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=30, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=30, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=33, serviceTime=4}
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=30, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.5
+Average Service Time: 2.3333333333333335
+Peak Hour: 10
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=34, serviceTime=6}
+Queue 1: Task{arrivalTime=33, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 3.5
+Average Service Time: 3.3333333333333335
+Peak Hour: 10
+
+Time 34
+Waiting Clients:
+Queue 1: Task{arrivalTime=33, serviceTime=2}; 
+Queue 2: Task{arrivalTime=34, serviceTime=6}; 
+Average Waiting Time: 3.5
+Average Service Time: 3.3333333333333335
+Peak Hour: 34
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: Task{arrivalTime=34, serviceTime=4}; 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.0
+Peak Hour: 34
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: Task{arrivalTime=34, serviceTime=2}; 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.0
+Peak Hour: 34
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.166666666666667
+Average Service Time: 5.0
+Peak Hour: 34
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.166666666666667
+Average Service Time: 5.0
+Peak Hour: 34
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.166666666666667
+Average Service Time: 5.0
+Peak Hour: 34
+
+Time 40
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.166666666666667
+Average Service Time: 5.0
+Peak Hour: 34
+
+Time 41
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.166666666666667
+Average Service Time: 5.0
+Peak Hour: 34
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=16, serviceTime=5}
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=16, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 16
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=16, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 16
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=16, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 16
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=20, serviceTime=5}
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 16
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=20, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 16
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=20, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 16
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=20, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 2.0
+Average Service Time: 1.6666666666666667
+Peak Hour: 16
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=27, serviceTime=6}
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=27, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 28
+Waiting Clients:
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=27, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 29
+Waiting Clients:
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=27, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.8333333333333335
+Average Service Time: 2.5
+Peak Hour: 16
+
+Time 30
+Waiting Clients:
+Task{arrivalTime=31, serviceTime=5}
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.8333333333333335
+Average Service Time: 3.5
+Peak Hour: 16
+
+Time 31
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=31, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 3.8333333333333335
+Average Service Time: 3.5
+Peak Hour: 16
+
+Time 32
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=31, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 3.8333333333333335
+Average Service Time: 3.5
+Peak Hour: 16
+
+Time 33
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=31, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 3.8333333333333335
+Average Service Time: 3.5
+Peak Hour: 16
+
+Time 34
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.333333333333333
+Peak Hour: 16
+
+Time 35
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.333333333333333
+Peak Hour: 16
+
+Time 36
+Waiting Clients:
+Task{arrivalTime=37, serviceTime=4}
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.333333333333333
+Peak Hour: 16
+
+Time 37
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=37, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.333333333333333
+Peak Hour: 16
+
+Time 38
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: Task{arrivalTime=37, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 4.833333333333333
+Average Service Time: 4.333333333333333
+Peak Hour: 16
+
+Time 39
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 40
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 41
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 42
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 43
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 44
+Waiting Clients:
+Task{arrivalTime=45, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 45
+Waiting Clients:
+Queue 1: Task{arrivalTime=45, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 46
+Waiting Clients:
+Queue 1: Task{arrivalTime=45, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 5.5
+Average Service Time: 5.0
+Peak Hour: 16
+
+Time 47
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 6.166666666666667
+Average Service Time: 5.666666666666667
+Peak Hour: 16
+
+Time 48
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 6.166666666666667
+Average Service Time: 5.666666666666667
+Peak Hour: 16
+
+Time 49
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 6.166666666666667
+Average Service Time: 5.666666666666667
+Peak Hour: 16
+
+Time 50
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 6.166666666666667
+Average Service Time: 5.666666666666667
+Peak Hour: 16
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=2, serviceTime=6}
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=2, serviceTime=6}
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=2, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=2, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=2, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 2
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=4}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 2
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=6, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 2
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=6, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 1.0
+Average Service Time: 1.0
+Peak Hour: 2
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 2
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 2
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=10, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 2
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=10, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 2
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=15, serviceTime=6}
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=15, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=15, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=15, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 2.3333333333333335
+Average Service Time: 2.3333333333333335
+Peak Hour: 2
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=5}
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=21, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=21, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: Task{arrivalTime=21, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 3.3333333333333335
+Peak Hour: 2
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 2
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 2
+
+Time 26
+Waiting Clients:
+Queue 1: Task{arrivalTime=26, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 2
+
+Time 27
+Waiting Clients:
+Queue 1: Task{arrivalTime=26, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 2
+
+Time 28
+Waiting Clients:
+Queue 1: Task{arrivalTime=26, serviceTime=1}; 
+Queue 2: 
+Average Waiting Time: 4.166666666666667
+Average Service Time: 4.166666666666667
+Peak Hour: 2
+
+Time 29
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 30
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 31
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 32
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 33
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 34
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 40
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 41
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 42
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 43
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 44
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 45
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 46
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 47
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 48
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 49
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 50
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 5.0
+Peak Hour: 2
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=6, serviceTime=5}
+Task{arrivalTime=6, serviceTime=6}
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=7, serviceTime=6}
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=6, serviceTime=5}; 
+Queue 2: Task{arrivalTime=6, serviceTime=6}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 6
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=6, serviceTime=3}; Task{arrivalTime=7, serviceTime=6}; 
+Queue 2: Task{arrivalTime=6, serviceTime=4}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=6, serviceTime=1}; Task{arrivalTime=7, serviceTime=6}; 
+Queue 2: Task{arrivalTime=6, serviceTime=2}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 7
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=7, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 1.8333333333333333
+Average Service Time: 1.8333333333333333
+Peak Hour: 7
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=11, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=7, serviceTime=3}; 
+Queue 2: 
+Average Waiting Time: 1.8333333333333333
+Average Service Time: 1.8333333333333333
+Peak Hour: 7
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=7, serviceTime=1}; 
+Queue 2: Task{arrivalTime=11, serviceTime=4}; 
+Average Waiting Time: 1.8333333333333333
+Average Service Time: 1.8333333333333333
+Peak Hour: 7
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: Task{arrivalTime=11, serviceTime=2}; 
+Average Waiting Time: 3.3333333333333335
+Average Service Time: 2.8333333333333335
+Peak Hour: 7
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 4.0
+Average Service Time: 3.5
+Peak Hour: 7
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 26
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 27
+Waiting Clients:
+Task{arrivalTime=28, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 28
+Waiting Clients:
+Queue 1: Task{arrivalTime=28, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 29
+Waiting Clients:
+Queue 1: Task{arrivalTime=28, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 5.0
+Average Service Time: 4.5
+Peak Hour: 7
+
+Time 30
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 31
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 32
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 33
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 34
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 40
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 41
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 42
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 43
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 44
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 45
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 46
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 47
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 48
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 49
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 50
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 5.166666666666667
+Peak Hour: 7
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=10, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=10, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=17, serviceTime=6}
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=4}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 19
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=17, serviceTime=2}; 
+Queue 2: 
+Average Waiting Time: 0.6666666666666666
+Average Service Time: 0.6666666666666666
+Peak Hour: 10
+
+Time 20
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 10
+
+Time 21
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 10
+
+Time 22
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 10
+
+Time 23
+Waiting Clients:
+Task{arrivalTime=24, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 10
+
+Time 24
+Waiting Clients:
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=24, serviceTime=6}; 
+Queue 2: 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 10
+
+Time 25
+Waiting Clients:
+Task{arrivalTime=26, serviceTime=4}
+Task{arrivalTime=26, serviceTime=4}
+Queue 1: Task{arrivalTime=24, serviceTime=4}; 
+Queue 2: Task{arrivalTime=25, serviceTime=5}; 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 25
+
+Time 26
+Waiting Clients:
+Queue 1: Task{arrivalTime=24, serviceTime=2}; Task{arrivalTime=26, serviceTime=4}; 
+Queue 2: Task{arrivalTime=25, serviceTime=3}; Task{arrivalTime=26, serviceTime=4}; 
+Average Waiting Time: 1.6666666666666667
+Average Service Time: 1.6666666666666667
+Peak Hour: 26
+
+Time 27
+Waiting Clients:
+Queue 1: Task{arrivalTime=26, serviceTime=4}; 
+Queue 2: Task{arrivalTime=25, serviceTime=1}; Task{arrivalTime=26, serviceTime=4}; 
+Average Waiting Time: 2.6666666666666665
+Average Service Time: 2.6666666666666665
+Peak Hour: 26
+
+Time 28
+Waiting Clients:
+Queue 1: Task{arrivalTime=26, serviceTime=2}; 
+Queue 2: Task{arrivalTime=26, serviceTime=3}; 
+Average Waiting Time: 3.5
+Average Service Time: 3.5
+Peak Hour: 26
+
+Time 29
+Waiting Clients:
+Queue 1: 
+Queue 2: Task{arrivalTime=26, serviceTime=1}; 
+Average Waiting Time: 4.5
+Average Service Time: 4.166666666666667
+Peak Hour: 26
+
+Time 30
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 31
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 32
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 33
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 34
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 35
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 36
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 37
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 38
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 39
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 40
+Waiting Clients:
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
+
+Time 0
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 1
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 2
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 3
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 4
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 5
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 6
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 7
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 8
+Waiting Clients:
+Task{arrivalTime=9, serviceTime=5}
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 0
+
+Time 9
+Waiting Clients:
+Task{arrivalTime=10, serviceTime=4}
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=5}; 
+Queue 2: 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 9
+
+Time 10
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=3}; 
+Queue 2: Task{arrivalTime=10, serviceTime=4}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 11
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: Task{arrivalTime=9, serviceTime=1}; 
+Queue 2: Task{arrivalTime=10, serviceTime=2}; 
+Average Waiting Time: 0.0
+Average Service Time: 0.0
+Peak Hour: 10
+
+Time 12
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 13
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 14
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 15
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 16
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 17
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+
+Time 18
+Waiting Clients:
+Task{arrivalTime=21, serviceTime=4}
+Task{arrivalTime=25, serviceTime=6}
+Task{arrivalTime=25, serviceTime=5}
+Task{arrivalTime=27, serviceTime=5}
+Queue 1: 
+Queue 2: 
+Average Waiting Time: 1.5
+Average Service Time: 1.5
+Peak Hour: 10
+

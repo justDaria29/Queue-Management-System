@@ -1,0 +1,4 @@
+Final Statistics
+Average Waiting Time: 5.666666666666667
+Average Service Time: 4.833333333333333
+Peak Hour: 26
